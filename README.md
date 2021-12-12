@@ -1,4 +1,4 @@
-mi direccion de github es
+mi direccion de github es:[Ajedrez.git]https://github.com/AlejandroIlgesias/
 Este programa crea un tablero utilizando arrays y librerias externas,logrando al final emular el juego del ajedrez.
 ///import pygame
 
